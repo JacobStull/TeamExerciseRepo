@@ -1,3 +1,14 @@
+
 #domon{
     color: crimson;
 }
+.Jacob{
+    background-image: url(JacobAssets/uselessrobot.jpg);
+    padding: 25px;
+    width: 300px;
+    border: black solid 2px;
+    background-repeat: no-repeat;
+    color:limegreen;
+    text-shadow:2px 2px 2px slateblue;
+}
+
