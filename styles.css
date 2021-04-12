@@ -1,5 +1,11 @@
 
-#domon{
+.domon{
+    background-image: url(assets/ggundam.png);
+    padding: 20px;
+    height: 300px;
+    width: 300px;
+    
+    background-repeat: no-repeat;
     color: crimson;
 }
 .Jacob{
