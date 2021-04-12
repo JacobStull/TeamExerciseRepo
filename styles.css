@@ -1,4 +1,10 @@
 
+.domon{
+    background-image: url(assets/ggundam.png);
+    padding: 20px;
+    height: 300px;
+    width: 300px;
+    background-repeat: no-repeat;
 .Title {
     font-family: Curlz MT;
     color: #228B22;
@@ -25,13 +31,6 @@
     margin: 600;
     max-width:1100px;
     padding: 0 3em;
-}
-
-    
-
-
-#domon{
-    color: crimson;
 }
 .Jacob{
     background-image: url(JacobAssets/uselessrobot.jpg);
